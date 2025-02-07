@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+  background-color: pink;
+  font-family: 'arial', sans-serif;
+}
+
+.con1{
+  text-align: center;
+}
+
+.header{
+  font-size: 3em;
+  color: red;
+}
+
+.gif2 img{
+  width: 100%;
+  max-width: 500px;
+  height: auto;  
+  border-radius: 10px;
+}
