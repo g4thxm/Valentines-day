@@ -70,5 +70,20 @@ h1{
     margin-top: 20px;
   }
 
+.t1{
+  display: flex;
+  margin-top: 5cap;
+  font-family: sans-serif;
+  flex-direction: row;
+  font-size: 1.3ch;
+  color: black;
+}
+
+.link1{
+  padding-left: 4px;
+  text-decoration: none;
+  color: black;
+}
+
 
   

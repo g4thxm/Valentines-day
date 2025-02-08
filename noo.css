@@ -17,11 +17,14 @@ body {
   color: red;
 }
 
-.gif2 img{
+.button{
+  margin-top: 10px;
+}
+.gif3 img{
   width: 100%;
   max-width: 500px;
   height: auto;  
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .yes1{
