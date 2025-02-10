@@ -11,6 +11,8 @@ body {
 
 .con{
   text-align: center;
+  align-items: center;
+  padding-top: 10%;
 }
 
 h1{
@@ -67,12 +69,13 @@ h1{
     max-width: 100%;
     height:auto;
     border-radius: 10px;
-    margin-top: 20px;
+    margin-top: 27px;
+    align-items: center;
   }
 
 .t1{
   display: flex;
-  margin-top: 5cap;
+  margin-top: 10cap;
   font-family: sans-serif;
   flex-direction: row;
   font-size: 1.3ch;
